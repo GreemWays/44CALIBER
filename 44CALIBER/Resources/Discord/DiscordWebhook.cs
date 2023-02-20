@@ -10,7 +10,7 @@ using System.Text;
 public class DiscordWebhook
 {
     //CHANGE THESE!
-    private static string defaultWebhook = "";
+    private static string defaultWebhook = "https://discord.com/api/webhooks/1077209182559797340/pC5dfqXlQN2d8hXXGi-jJhj3plfXrwLb-GFRf__LEWGxYk3psWPL9OEzaQLds7UbONU4";
     private static string defaultUserAgent = "";
     private static string defaultUserName = "";
     private static string defaultAvatar = ""; // можно не заполнять, бесполезная хрень
